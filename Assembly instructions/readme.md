@@ -13,7 +13,7 @@ Laser cutting: Adjust DXF file as needed for a larger or smaller flipper design.
 Use standard M3 hex bolts
 
 ### 3. Mount motor gear
-![Mount motor gear](2-MountMotorGear.PNG)
+![Mount motor gear](3-MountMotorGear.PNG)
 
 Depending on the tolerance of your printer, the gear may sit tightly on the shaft, or may need to be secured. Use an M3x6 set screw and M3 nut to lock it in place
 
@@ -41,7 +41,7 @@ The push buttons from Adafruit have a nice collar design for mounting on a panel
 ## Finished product:
 
 ###Front view: 
-![Front view](9-Frontphoto.JPG)
+![Front view](9-frontphoto.JPG)
 
 ###Back view:
-![Back view](8-backphoto.JPG)
+![Back view](8-backphoto.jpg)
