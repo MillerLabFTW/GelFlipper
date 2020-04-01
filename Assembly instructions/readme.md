@@ -40,8 +40,8 @@ The push buttons from Adafruit have a nice collar design for mounting on a panel
 
 ## Finished product:
 
-###Front view: 
+### Front view: 
 ![Front view](9-frontphoto.JPG)
 
-###Back view:
+### Back view:
 ![Back view](8-backphoto.jpg)
